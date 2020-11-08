@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Photos>
+  <Photo
+    Author = "Dan Brown"
+    Year = "2020"
+    City = "London"
+    Size = "5"
+    ISO = "400"
+    Format = "png"
+    Quality = "Low">
+  </Photo>
+  <Photo
+    Author = "Dan Brown"
+    Year = "2019"
+    City = "London"
+    Size = "5"
+    ISO = "400"
+    Format = "jpg"
+    Quality = "Low">
+  </Photo>
+  <Photo
+    Author = "Kate Winslet"
+    Year = "2018"
+    City = "New York"
+    Size = "7"
+    ISO = "800"
+    Format = "jpg"
+    Quality = "Medium">
+  </Photo>
+  <Photo
+    Author = "Mary Berry"
+    Year = "2020"
+    City = "Liverpool"
+    Size = "8"
+    ISO = "200"
+    Format = "png"
+    Quality = "High">
+  </Photo>
+  <Photo
+    Author = "Rick Morson"
+    Year = "2005"
+    City = "Kyiv"
+    Size = "5"
+    ISO = "400"
+    Format = "png"
+    Quality = "Medium">
+  </Photo>
+</Photos>
